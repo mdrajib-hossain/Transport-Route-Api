@@ -1,0 +1,22 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Others
+*.tmp
+*.cache

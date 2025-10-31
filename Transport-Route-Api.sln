@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transport-Route-Api", "Transport-Route-Api.csproj", "{6FDE6A2B-8DC0-4BBB-BAD1-7C038E900A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FDE6A2B-8DC0-4BBB-BAD1-7C038E900A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDE6A2B-8DC0-4BBB-BAD1-7C038E900A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDE6A2B-8DC0-4BBB-BAD1-7C038E900A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDE6A2B-8DC0-4BBB-BAD1-7C038E900A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72A43B37-CD39-4AAB-85B7-D00DAC854463}
+	EndGlobalSection
+EndGlobal
